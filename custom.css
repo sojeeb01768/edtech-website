@@ -1,0 +1,14 @@
+.brightness{
+    filter: brightness(40%);
+}
+@media only screen and (max-width:420px) {
+    .carousel-slider h1{
+        font-size: 18px;
+    }
+    .carousel-slider p{
+        font-size: 13px;
+    }
+    .carousel-slider .carousel-caption{
+        margin-top: 20px;
+    }
+}
